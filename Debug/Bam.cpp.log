@@ -1,3 +1,3 @@
 ﻿  bam.cpp
-C:\Users\장승철\source\repos\Bam.cpp\bam.h(63): warning C4715: 'control': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\장승철\source\repos\Bam.cpp\bam.h(69): warning C4715: 'control': 모든 제어 경로에서 값을 반환하지는 않습니다.
   Bam.cpp.vcxproj -> C:\Users\장승철\source\repos\Bam.cpp\Debug\Bam.cpp.exe
